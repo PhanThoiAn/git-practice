@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là PHAN THOI AN, MSSV 220273.
+Đây là README từ nhánh conflict-demo.
