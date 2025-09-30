@@ -3,3 +3,4 @@
 =======
 Đây là README từ nhánh conflict-demo.
 >>>>>>> conflict-demo
+Thêm ghi chú PHAN THỚI AN vào README
