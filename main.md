@@ -1,1 +1,1 @@
-Main file
+Dòng gây conflict
